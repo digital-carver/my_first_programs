@@ -19,5 +19,6 @@ Some programs make extensive use of `graphics.h`, and as such can't be tested by
 
 The order in which the programs are written in the notebook (which might be helpful to see if/how I progressed with time) is below:
 
-1. [prime.c](prime.c)
-2. 
+1. [Finds whether a given no. is a prime number](prime.c)
+2. [Gives sum of N nos](sum_n.c)
+3. [Finds even and odd no.s](even_odd.c)
