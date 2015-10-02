@@ -87,3 +87,11 @@ The order in which the programs are written in the notebook (which might be help
 44. Multmtrx.c
 45. NPOWNNF (1<sup>1</sup>/1! + 2<sup>2</sup>/2! + ...)
 46. Runtime
+47. strtouch.c
+48. strmover.c
+49. sinecos.c
+50. strasc.c
+51. strdesc.c
+52. strpalin.c
+53. Maze.c
+54. Day.c
