@@ -30,4 +30,6 @@ The order in which the programs are written in the notebook (which might be help
 9. String reversal
 10. Multiplication table
 11. Gives roots of quadratic equation
-12. 
+12. [`*`
+      `* *`
+      `* * *`](print_stars.c)
