@@ -22,3 +22,4 @@ The order in which the programs are written in the notebook (which might be help
 1. [Finds whether a given no. is a prime number](prime.c)
 2. [Gives sum of N nos](sum_n.c)
 3. [Finds even and odd no.s](even_odd.c)
+4. [Finds & displays the prime no.s among the no.s given ](primer.c)
