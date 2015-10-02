@@ -50,3 +50,40 @@ The order in which the programs are written in the notebook (which might be help
 17. [`3 3 3`
       `2 2`
       `1`](print_333221.c)
+18. `6 5 4`
+    `3 2`
+    `1`
+19. `1 2 3`
+    `1 2`
+    `1`
+20. `1`
+    `0 1`
+    `1 0 1`
+21. `1 0 1`
+    `0 1`
+    `1`
+22. Fibonacci series
+23. Number Reverser
+24. Factorial without \*
+25. Finds whether prime or not
+26. Counts even and odd no.s
+27. Ascending ordere
+28. Transpose
+29. Sort in no.
+30. Bill
+31. Bin2dec
+32. Colsort
+33. Rowsort
+34. Play the game Crorpaty.c
+35. Dec2bin
+36. sundar.h
+37. Dropper
+38. obyofact.c
+39. nbynfact.c
+40. leapyear - finds if leap - gives no. of days
+41. leapyrs.c
+42. Magicsqr.c
+43. oldmaze.c
+44. Multmtrx.c
+45. NPOWNNF (1<sup>1</sup>/1! + 2<sup>2</sup>/2! + ...)
+46. Runtime
