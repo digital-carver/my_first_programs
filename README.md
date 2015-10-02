@@ -17,7 +17,7 @@ $ compile <programname>.c
 Later programs make extensive use of `graphics.h` and `conio.h` features, and as such can't be tested by me (since I don't have a Turbo C environment with me). Please let me know if you were able to get them to run/encountered compiler errors/had fun with them!<br>
 (The testing is just for my own curiosity, the programs go here whether or not they succcessfully compile.)
 
-The order in which the programs are written in the notebook (which might be helpful to see if/how I progressed with time) is below:
+The order in which the programs are written in the notebook (which might be helpful to see if/how I progressed with time) is below. The descriptions on the links are (in most cases) from comments at the top of the programs in the notebook.
 
 1. [Finds whether a given no. is a prime number](prime.c)
 2. [Gives sum of N nos](sum_n.c)
@@ -25,4 +25,9 @@ The order in which the programs are written in the notebook (which might be help
 4. [Finds & displays the prime no.s among the no.s given ](primer.c)
 5. Converts a decimal no. to its binary equivalent
 6. Prints the prime no.s within a given no.
-7. Add matrices
+7. [Add matrices](add_matrices.c)
+8. [Number dropping](number_drop.c)
+9. String reversal
+10. Multiplication table
+11. Gives roots of quadratic equation
+12. 
