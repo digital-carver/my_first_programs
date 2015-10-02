@@ -33,3 +33,20 @@ The order in which the programs are written in the notebook (which might be help
 12. [`*`
       `* *`
       `* * *`](print_stars.c)
+13. [`1`
+      `2 2`
+      `3 3 3`](print_122333.c)
+
+14. [`1`
+      `1 2`
+      `1 2 3`](print_112123.c)
+      
+15. [`1`
+      `2 3`
+      `4 5 6`](print_123456.c)
+16. [`3 2 1`
+      `3 2`
+      `3`](print_321323.c)
+17. [`3 3 3`
+      `2 2`
+      `1`](print_333221.c)
