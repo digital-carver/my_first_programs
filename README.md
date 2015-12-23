@@ -27,7 +27,7 @@ The order in which the programs are written in the notebook (which might be help
 6. [Prints the prime no.s within a given no.](primes_within.c)
 7. [Add matrices](add_matrices.c)
 8. [Number dropping](number_drop.c)
-9. String reversal
+9. [String reversal](strrev.c)
 10. Multiplication table
 11. Gives roots of quadratic equation
 12. [`*`
