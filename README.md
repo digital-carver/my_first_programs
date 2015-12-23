@@ -28,7 +28,7 @@ The order in which the programs are written in the notebook (which might be help
 7. [Add matrices](add_matrices.c)
 8. [Number dropping](number_drop.c)
 9. [String reversal](strrev.c)
-10. Multiplication table
+10. [Multiplication table](mult_table.c)
 11. Gives roots of quadratic equation
 12. [`*`
       `* *`
