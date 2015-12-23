@@ -76,7 +76,7 @@ The order in which the programs are written in the notebook (which might be help
 33. Rowsort
 34. Play the game Crorpaty.c
 35. Dec2bin
-36. sundar.h
+36. [Humbly named "utility functions" header](sundar.h)
 37. Dropper
 38. obyofact.c
 39. nbynfact.c
