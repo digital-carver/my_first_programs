@@ -24,7 +24,7 @@ The order in which the programs are written in the notebook (which might be help
 3. [Finds even and odd no.s](even_odd.c)
 4. [Finds & displays the prime no.s among the no.s given ](primer.c)
 5. [Converts a decimal no. to its binary equivalent](dec_to_bin.c)
-6. Prints the prime no.s within a given no.
+6. [Prints the prime no.s within a given no.](primes_within.c)
 7. [Add matrices](add_matrices.c)
 8. [Number dropping](number_drop.c)
 9. String reversal
